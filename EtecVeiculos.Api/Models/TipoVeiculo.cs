@@ -9,7 +9,7 @@ namespace EtecVeiculos.Api.Models
 
         [Required]
         [StringLength(30)]
-        [Display(Name = "Name")]
+        [Display(Name = "Nome")]
         public string Name { get; set; }
 
         

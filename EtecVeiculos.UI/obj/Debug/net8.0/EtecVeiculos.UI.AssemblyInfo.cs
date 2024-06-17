@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EtecVeiculos.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+246e51ac831a97f63c5728a7827eed92168ff04e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7674b3a65447770fbeeabc17395a40fff886bff3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EtecVeiculos.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EtecVeiculos.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
